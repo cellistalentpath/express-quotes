@@ -1,1 +1,1 @@
-- API writtin in Express serving a randmo quote
+- API writtin in Express serving a random quote
